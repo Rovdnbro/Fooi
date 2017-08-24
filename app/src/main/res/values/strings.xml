@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rovdnbro_Fooi</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="firstText">Enter a bill</string>
+    <string name="tip10">10%</string>
+    <string name="tip15">15%</string>
+    <string name="tip20">20%</string>
+    <string name="percentages">Percentages</string>
+</resources>
